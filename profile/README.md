@@ -13,6 +13,6 @@
 We are a small team of hobbyists with full-time jobs in software related fields.
 
 Looking for
+- Designer (graphic or UI/UX)
 - Web developers
-- Blockchain developers
-- Machine learning engineers
+- Machine learning practitioners
